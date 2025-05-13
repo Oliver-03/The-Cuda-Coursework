@@ -1,0 +1,8 @@
+.vs/
+*.user
+*.suo
+*.VC.db
+*.exe
+*.obj
+*.ipch
+*.log
