@@ -10,5 +10,6 @@
     <ClInclude Include="bird.h" />
     <ClInclude Include="flocking.h" />
     <ClInclude Include="bird_update.h" />
+    <ClInclude Include="flockingTiled.h" />
   </ItemGroup>
 </Project>
